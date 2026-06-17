@@ -1,13 +1,19 @@
 # CodeAlpha_WebScrapping
 # Web Scraping Project
+# CodeAlpha Data Analytics Internship
 
-Task 1 completed using Python and BeautifulSoup.
+## Task 1 – Web Scraping
+- Extracted book data using Python
+- Generated CSV dataset
 
-Files:
-- Web Scraping Notebook
-- Dataset (.csv)
+## Task 2 – Exploratory Data Analysis (EDA)
+- Checked rows and columns
+- Analyzed missing values
+- Generated summary statistics
+- Explored rating distribution
 
-Tools Used:
+Tools:
 - Python
 - Pandas
 - BeautifulSoup
+- Google Colab
